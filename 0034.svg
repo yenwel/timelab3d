@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='ascii'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="540" version="1.1" width="960">
+    <g id="RenderLayer_LineSet" inkscape:groupmode="lineset" inkscape:label="RenderLayer_LineSet" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+        <g id="strokes" inkscape:groupmode="layer" inkscape:label="strokes" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+            <path d=" M 275.933, 209.190 279.648, 208.861 283.291, 208.753 276.237, 215.841 269.183, 222.930 262.129, 230.018 255.075, 237.106 248.021, 244.194 240.967, 251.282 233.913, 258.370 226.859, 265.458 224.359, 267.969 224.371, 267.773 224.751, 261.110 225.918, 254.316 227.852, 247.654 227.934, 247.457 230.709, 241.188 234.344, 234.980 238.221, 229.753 238.754, 229.089 244.243, 223.573 246.303, 221.878 250.856, 218.484 252.935, 217.211 258.576, 214.147 259.163, 213.872 263.520, 212.201 267.970, 210.781 271.949, 209.780 272.071, 209.756 275.933, 209.190 " fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="1.0" stroke-width="3.0" />
+        </g>
+    </g>
+</svg>
